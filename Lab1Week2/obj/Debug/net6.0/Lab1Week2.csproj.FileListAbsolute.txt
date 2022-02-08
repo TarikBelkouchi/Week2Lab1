@@ -1,0 +1,15 @@
+/Users/tarik/Projects/Lab1Week2/Lab1Week2/obj/Debug/net6.0/Lab1Week2.csproj.AssemblyReference.cache
+/Users/tarik/Projects/Lab1Week2/Lab1Week2/obj/Debug/net6.0/Lab1Week2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tarik/Projects/Lab1Week2/Lab1Week2/obj/Debug/net6.0/Lab1Week2.AssemblyInfoInputs.cache
+/Users/tarik/Projects/Lab1Week2/Lab1Week2/obj/Debug/net6.0/Lab1Week2.AssemblyInfo.cs
+/Users/tarik/Projects/Lab1Week2/Lab1Week2/obj/Debug/net6.0/Lab1Week2.csproj.CoreCompileInputs.cache
+/Users/tarik/Projects/Lab1Week2/Lab1Week2/bin/Debug/net6.0/Lab1Week2
+/Users/tarik/Projects/Lab1Week2/Lab1Week2/bin/Debug/net6.0/Lab1Week2.deps.json
+/Users/tarik/Projects/Lab1Week2/Lab1Week2/bin/Debug/net6.0/Lab1Week2.runtimeconfig.json
+/Users/tarik/Projects/Lab1Week2/Lab1Week2/bin/Debug/net6.0/Lab1Week2.dll
+/Users/tarik/Projects/Lab1Week2/Lab1Week2/bin/Debug/net6.0/ref/Lab1Week2.dll
+/Users/tarik/Projects/Lab1Week2/Lab1Week2/bin/Debug/net6.0/Lab1Week2.pdb
+/Users/tarik/Projects/Lab1Week2/Lab1Week2/obj/Debug/net6.0/Lab1Week2.dll
+/Users/tarik/Projects/Lab1Week2/Lab1Week2/obj/Debug/net6.0/ref/Lab1Week2.dll
+/Users/tarik/Projects/Lab1Week2/Lab1Week2/obj/Debug/net6.0/Lab1Week2.pdb
+/Users/tarik/Projects/Lab1Week2/Lab1Week2/obj/Debug/net6.0/Lab1Week2.genruntimeconfig.cache
